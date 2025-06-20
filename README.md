@@ -1,4 +1,4 @@
-# manjirit
+# Manjiri Tilak
 ### About Me
 
 
