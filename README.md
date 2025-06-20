@@ -6,7 +6,7 @@
 
 
 Interests-
-- I specialize in data wrangling, SQL queries, data visualization with Power BI, Tableau, and Python, and building dashboards that tell meaningful stories
+- I specialize in data wrangling, SQL queries, data visualization with Power BI, and Python, and building dashboards that tell meaningful stories
 
 Skills-
 - SQL: Advanced querying, database management, and performance optimization
